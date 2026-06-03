@@ -46,7 +46,7 @@ I am a Full Stack Developer and B.E. IT student with hands-on startup experience
 > * Built for the Motia Hackathon 2025: An autonomous real-time surge pricing agent.
 > * Streamlined state management by replacing complex Redis/WebSocket/Cron structures with native Steps and Streams.
 
-📂 **[Cross-Platform Bookmark Manager](https://github.com/abhasgawali)**
+📂 **[Cross-Platform Bookmark Manager](https://github.com/abhasgawali/BookmarkManager)**
 > **Stack:** `MongoDB` · `Express` · `React` · `Node.js` · `JWT` · `Zod`
 > * Production-ready MERN application implementing stateless JWT auth and secure bcrypt hashing.
 > * Clean architectural structure featuring 8+ MVC endpoints with strict middleware authentication guards.
