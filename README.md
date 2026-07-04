@@ -64,7 +64,25 @@ I am a Full Stack Developer and B.E. IT student with hands-on startup experience
 
 ### 📊 Performance & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhasgawali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abhas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhasgawali&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+  <br/>
+  <!-- Tech Stack Grid -->
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,bun,java,react,nextjs,tailwind,redux,css,express,postgres,mongodb,supabase,prisma&theme=dark&perline=8" alt="Tech Stack" />
+  <br/><br/><br/>
+  
+  <!-- Consolidated Stats -->
+  <img src="https://github-readme-stats.shion.dev/api?username=abhasgawali&theme=transparent&hide_border=true&title_color=ffffff&text_color=8a8a8a&icon_color=ffffff&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhasgawali&theme=transparent&hide_border=true&title_color=ffffff&text_color=8a8a8a&layout=compact" alt="Top Languages" width="48%" />
+  <br/><br/>
+  
+  <img src="https://streak-stats.demolab.com/?user=abhasgawali&theme=transparent&hide_border=true&title_color=ffffff&text_color=8a8a8a&sideNums=ffffff&sideLabels=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="70%"/>
+  <br/><br/>
+
+  <!-- Trophies & Views -->
+  
+  <img src="https://komarev.com/ghpvc/?username=abhasgawali&color=121212&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br/><br/>
+
+  <!-- Contribution snake -->
+  <img src="https://raw.githubusercontent.com/abhasgawali/abhasgawali/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+</div>
